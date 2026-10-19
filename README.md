@@ -1,5 +1,6 @@
 # Clothing Size Survey: Statistical Analysis with R
 DATA | DATA ANALYTICS | R · RSTUDIO
+
 Statistical analysis of clothing-size survey data collected through Google Forms, covering data cleaning, descriptive statistics, probability calculations, and visualization using R.
 
 ## 01. Project Overview
