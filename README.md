@@ -112,8 +112,8 @@ clothing-size-statistical-analysis/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/clothing-size-statistical-analysis.git
-cd clothing-size-statistical-analysis
+git clone https://github.com/YOUR_USERNAME/data-ClothingSizeAnalysis.git
+cd data-ClothingSizeAnalysis
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
